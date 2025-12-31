@@ -93,6 +93,3 @@ The trained model demonstrates **strong performance in classifying news articles
 * Deep learning approaches (LSTM, GRU)
 * Transformer-based models (BERT)
 * Model deployment using Flask / FastAPI
-
-
-Just tell me — happy to refine it further 🙂
