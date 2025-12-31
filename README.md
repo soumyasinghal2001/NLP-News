@@ -1,8 +1,3 @@
-Here’s a **clean, crisp, and professional README** — not over-wordy, not vague — exactly the kind that looks **mature, ML-focused, and recruiter-friendly**.
-You can paste this directly into your repo 👇
-
----
-
 # 📰 NLP-News: News Article Classification using NLP
 
 This project implements a **supervised Natural Language Processing (NLP) pipeline** to **classify news articles into categories based on textual content**.
